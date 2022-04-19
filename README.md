@@ -29,10 +29,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **David Vera**
 
-- GitHub: [@githubhandle](https://github.com/indigodavid)
-- Twitter: [@twitterhandle](https://twitter.com/indigo1987)
+- GitHub: [@indigodavid](https://github.com/indigodavid)
+- Twitter: [@indigo1987](https://twitter.com/indigo1987)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/david-vera-castillo-001b5756)
 
 ## 🤝 Contributing
