@@ -1,56 +1,39 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> This project helps me to understand the standards and conventions Microverse applies in their program. .
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- Linters
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Updated Web Browser
+
 ### Setup
 
-### Install
+- Clone this repository via GitHub
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+- Open index.html on your browser.
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/indigodavid)
+- Twitter: [@twitterhandle](https://twitter.com/indigo1987)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/david-vera-castillo-001b5756)
 
 ## 🤝 Contributing
 
@@ -65,8 +48,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse for reaching new developers all around the globe.
 
 ## 📝 License
 
